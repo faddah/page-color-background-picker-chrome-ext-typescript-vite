@@ -1,0 +1,24 @@
+{
+  "name": "color-page-background-picker-chrome-ext",
+  "version": "0.0.1",
+  "description": "A Chrome Extension in TypeScript & VIte to change the color background of the web page you're on.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chrome",
+    "Extension",
+    "HTML5",
+    "JavaScript",
+    "TypeScript",
+    "Vite",
+    "CSS",
+    "color",
+    "page",
+    "background",
+    "picker"
+  ],
+  "author": "Faddah Wolf & Train To Code on YouTube",
+  "license": "ISC"
+}

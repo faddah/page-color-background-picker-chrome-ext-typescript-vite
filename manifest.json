@@ -1,0 +1,10 @@
+{
+	"name": "Page Background Color Picker Chrome Extension",
+    "version": "0.0.1",
+    "description": "A Digital Clock Drop-down Chrome Extension that displays the current time on your computer.",
+		"manifest_version": 3, 
+    "action": {
+        "default_popup": "index.html",
+				"default_title": "Page Background Color Picker Extension"
+		}
+}
