@@ -5,6 +5,10 @@
 html, body {
 		background-color: cornsilk;
 		color: navy;
+		display: flex;
+		justify-content: center;
 		margin: auto;
+		height: 100px;
+		width: 150px;
 		/* padding: 0; */
 }
