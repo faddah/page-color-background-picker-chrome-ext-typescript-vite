@@ -3,9 +3,8 @@
 }
 
 html, body {
-		background-color: slategray;
-		margin: 0;
-		padding: 0;
-		height: 100vh;
-		width: 100vw;
+		background-color: cornsilk;
+		color: navy;
+		margin: auto;
+		/* padding: 0; */
 }
