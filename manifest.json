@@ -4,7 +4,7 @@
     "description": "A Digital Clock Drop-down Chrome Extension that displays the current time on your computer.",
 		"manifest_version": 3, 
     "action": {
-        "default_popup": "index.html",
+        "default_popup": "index.html?width=300&height=300",
 				"default_title": "Page Background Color Picker Extension"
 		},
 		"icons": {
